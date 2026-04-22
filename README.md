@@ -65,12 +65,7 @@ Follow these steps to set up the project on your local machine:
 4. Navigate through the sidebar to view subjects, assignments, charts, and edit your profile.
 5. Use the top right menu to toggle Dark Mode or sign out.
 
-## Screenshots
-*(Insert actual screenshots of the project here)*
-- Dashboard Overview: `![Dashboard Overview](placeholder_dashboard.png)`
-- Analytics Page: `![Analytics Charts](placeholder_analytics.png)`
-- Timetable view: `![Timetable](placeholder_timetable.png)`
-- Dark Mode toggle: `![Dark Mode](placeholder_dark.png)`
+
 
 ## Future Improvements
 - **Backend API Integration**: Replace the local mock data with a Node.js + Express backend and a MongoDB database.
@@ -79,4 +74,4 @@ Follow these steps to set up the project on your local machine:
 - **File Uploads**: Allow students to submit homework files directly from the assignments page.
 
 ## Author
-Built by Neelansh Sahu - *Computer Science Engineering*
+Built by Neelansh Sahu 
